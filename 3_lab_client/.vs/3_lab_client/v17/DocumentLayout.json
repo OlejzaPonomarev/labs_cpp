@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\labs_cpp\\3_lab_client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43CC6C78-ED4B-4DD8-AF67-0CB737EF2E68}|3_lab_client\\3_lab_client.vcxproj|D:\\labs_cpp\\3_lab_client\\3_lab_client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43CC6C78-ED4B-4DD8-AF67-0CB737EF2E68}|3_lab_client\\3_lab_client.vcxproj|solutionrelative:3_lab_client\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\labs_cpp\\3_lab_client\\3_lab_client\\main.cpp",
+              "RelativeDocumentMoniker": "3_lab_client\\main.cpp",
+              "ToolTip": "D:\\labs_cpp\\3_lab_client\\3_lab_client\\main.cpp",
+              "RelativeToolTip": "3_lab_client\\main.cpp",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAiwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-13T07:23:15.533Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

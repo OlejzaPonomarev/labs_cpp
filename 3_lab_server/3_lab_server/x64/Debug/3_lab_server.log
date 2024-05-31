@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\labs_cpp\3_lab_server\3_lab_server\main.cpp(93,6): warning C4101: nsize: неиспользованная локальная переменная
+  3_lab_server.vcxproj -> D:\labs_cpp\3_lab_server\x64\Debug\3_lab_server.exe

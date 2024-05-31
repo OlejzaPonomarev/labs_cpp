@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\labs_cpp\2_lab_client\2_lab_client\main.cpp(38,8): warning C4101: localIP: неиспользованная локальная переменная
+D:\labs_cpp\2_lab_client\2_lab_client\main.cpp(14,10): warning C4101: WSStartData: неиспользованная локальная переменная
+  2_lab_client.vcxproj -> D:\labs_cpp\2_lab_client\x64\Debug\2_lab_client.exe
